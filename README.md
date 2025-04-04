@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Ganesula Yashwanth
 
-🎯 **Aspiring Data Analyst | IIT (ISM) Dhanbad | Passionate about turning raw data into actionable insights**
+🎯 **ML, AI and Data Analytics enthusiast | IIT (ISM) Dhanbad | Passionate about turning raw data into actionable insights**
 
 ---
 
@@ -32,6 +32,15 @@ _B.Tech in Electrical Engineering_ (2020 – 2024)
 **Tech Stack:** MS Excel, VBA Macros, Data Analysis, Resource Allocation, Project Management
 
 ---
+### 💼 Axxela Research and Analytics — Analyst Intern (May 2023 - Jul 2023)
+**Location:** Bengaluru  
+- Conducted in-depth analysis of 3-month SOFR Futures, a US interest rate benchmark comparable to LIBOR, by examining historical trends, market dynamics, and macroeconomic indicators.
+- Utilized mathematical models to predict the future price movements of the instrument based on historical and economic insights.
+- Performed fundamental factor analysis and correlation assessments to understand the drivers of SOFR movement.
+- **Tech Stack:** Strategic Planning, Financial Analysis, Research Skills, Analytical Skills
+
+---
+
 
 ## 🧠 Projects
 
