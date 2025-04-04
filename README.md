@@ -78,7 +78,7 @@ _B.Tech in Electrical Engineering_ (2020 – 2024)
 ## 📌 Positions of Responsibility
 
 - **Sponsorship Head – PARAKRAM '24, IIT(ISM) Dhanbad**  
-  Secured ₹10+ Lakh in sponsorships and built strong corporate partnerships.
+  Secured around 8 Lakh in sponsorships and built strong corporate partnerships.
 
 - **HEC Member – Jasper Hostel**  
   Managed operations in Maintenance, Technical, Sports & Cultural divisions.
