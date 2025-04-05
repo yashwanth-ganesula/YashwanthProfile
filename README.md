@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I am a detail-oriented data analyst with a strong foundation in statistical analysis, data cleaning, visualization, and decision-making. With a growing passion for Machine Learning and Artificial Intelligence, I am eager to dive deeper into these domains and leverage their full potential to solve real-world problems. I enjoy turning raw data into actionable insights that drive meaningful outcomes and business impact. I’m actively seeking opportunities that allow me to apply ML and AI techniques to create innovative, data-driven solutions.
+I am a detail-oriented data analyst with a strong foundation in Machine Learning, Artificial Intelligence, statistical analysis, data cleaning, visualization, and decision-making. With a growing passion for Machine Learning and Artificial Intelligence, I am eager to dive deeper into these domains and leverage their full potential to solve real-world problems. I enjoy turning raw data into actionable insights that drive meaningful outcomes and business impact. I’m actively seeking opportunities that allow me to apply ML and AI techniques to create innovative, data-driven solutions.
 
 ---
 
